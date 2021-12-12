@@ -1,7 +1,7 @@
 # FacExcerciseBook
 Team:
 -Bolla Gergő Levente-GGJKVS
--Schifferer András
+-Schifferer András-H5Z94Y
 
 Homework Project for Deep Learning. 
 First milestone
