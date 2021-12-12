@@ -19,6 +19,7 @@ In the final project we did hyperparameter optimization using keras-tuner.
 We used hyperband because of pruning. We further trained the model and evaluated the results.
 We also created a confusion matrix for visualization.
 There is a PDF called Recognition-of-Facial-Features-with-Deep-Learning.pdf which is the description of the task we did during the semester.
+There is also a ZIP file containing our best model which you can access.
 
 
 Notebooks to use:
