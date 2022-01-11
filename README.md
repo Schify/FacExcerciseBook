@@ -30,4 +30,6 @@ Notebooks to use:
  You don't have to run this because the files are in the drive link provided.
 -The other notebooks are for different parts of the milestone projects.(DL_big_Homework notebook is for the first. DL_Homework_trainingipynb is for the second.)
 
+Here is the link to our video of the presentation: https://youtu.be/U9UA_v1t0jI
+
  
